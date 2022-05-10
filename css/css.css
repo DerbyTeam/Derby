@@ -747,7 +747,7 @@ body.yaf2 .center2{
 body.yaf2 .center5 {
   margin-right: 35%;
 }
-body.yaf2 ul,ol{
+body.yaf2 ul, body.yaf2 ol{
   color: white;
   font-size: 130%;
 }
