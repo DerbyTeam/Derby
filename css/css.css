@@ -791,7 +791,7 @@ body.yaf1 {
     color:white;
     font-size:130%;
   }
-  body.yaf1 ul,ol {
+  body.yaf1 ul,body.yaf1 ol {
     color:white;
     font-size:130%;
   }
